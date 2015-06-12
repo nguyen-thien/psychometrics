@@ -182,6 +182,7 @@ public class ItemResponseSimulator {
                 return itemScore;
             }
         }
+
         return itemScore;
     }
 
